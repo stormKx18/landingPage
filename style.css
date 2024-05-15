@@ -1,12 +1,11 @@
 body{
     height: 100vh;
     margin: 0;
-    background-color: #1F2937;
     font-family: 'Roboto';
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    
+    background-color: #1F2937;
 }
 
 ul{
@@ -32,8 +31,6 @@ a{
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
-    margin-left: 20px;
-    margin-right: 20px;
     
 }
 
@@ -88,16 +85,16 @@ a{
 
 .container_1{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap:20px;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
-.c1_left{
+.img{
+    max-width: 400px;
     
 }
 
-.c1_right{
-    
+/*CONTAINER 2*/
+.container_2{
+    background-color: #F9FAF8;
 }
