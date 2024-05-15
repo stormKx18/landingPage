@@ -122,3 +122,26 @@ a{
 .card{
     max-width: 150px;
 }
+
+/*CONTAINER 3*/
+.container_3{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.c3_quote{
+    font-style: italic;
+    font-size: 26px;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+.c3_author{
+    font-weight:900;
+    font-style: normal;
+    align-self: flex-end;
+    font-size: 20px;
+}
