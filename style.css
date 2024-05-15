@@ -7,9 +7,41 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    
+}
+
+ul{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */  
 }
 
 a{
     color: white;
     text-decoration: none;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.left-links, .right-links{
+    display: flex;
+    gap: 12px;
+}
+
+.footer, .right-links{
+    color:white;
+    height: 36px;
+    font-size: 14px;
+}
+
