@@ -1,6 +1,7 @@
 # landingPage
 Landing Page based on The Odin Project curriculum.
 
+https://stormkx18.github.io/landingPage/
 
 Images:
 computer
