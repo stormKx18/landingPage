@@ -33,8 +33,8 @@ a{
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
     
 }
 
@@ -146,34 +146,28 @@ a{
     color: #1F2937;
     display: flex;
     justify-content: center;
+    
+}
+
+.quote{
+    max-width: 70%;
+    padding: 20px;
 }
 
 .c3_quote{
     display: flex;
     justify-content: center;
     font-style: italic;
+    font-size: 26px;
 }
 
 .c3_author{
     display: flex;
     font-weight: 900; 
+    font-size: 20px;
     justify-content: flex-end;
 }
-/*
-.c3_quote{
-    font-style: italic;
-    font-size: 26px;
-    align-self: center;
-    margin-bottom: 0;
-}
 
-.c3_author{
-    font-weight:900;
-    font-style: normal;
-    align-self: flex-end;
-    font-size: 20px;
-}
-*/
 /*Container 4*/
 .container_4{
     display: flex;
